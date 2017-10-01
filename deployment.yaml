@@ -13,3 +13,4 @@ env:
     EMAIL_HOST: smtp.sendgrid.net
     EMAIL_PORT: 465
     BASE_URL: /
+    IGNORE_CONFIG_FILE: True
