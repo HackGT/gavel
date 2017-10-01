@@ -2,7 +2,7 @@ git:
     remote: https://github.com/HackGT/gavel.git
     branch: master
 secrets:
-  - EMAIL_USERNAME
+  - EMAIL_USER
   - EMAIL_PASSWORD
   - SECRET_KEY
   - ADMIN_PASSWORD
